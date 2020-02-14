@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Yellowtail', cursive;
+  font-size: 70px;
+  color: #4f98ca;
+}
+
+h2 {
+  color: #4f98ca;
+  margin-top: 20px;
+  font-weight: normal;
+}
+
+h3 {
+  color: #4f98ca;
+  font-weight: normal;
+}
+
+p {
+  color: #6c7b95;
+}
+
+hr{
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #bae8e8;
+  border-width: 8px;
+}
+
+.top-container {
+  background-color: #9aceff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #9aceff;
+  margin: 0;
+  padding: 50px 0 10px 0;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.mountain {
+  margin-bottom: -3px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  height: 170px;
+}
+
+.skill-row {
+  width: 70%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.skills-one {
+  margin-right: 30px;
+  width: 210px;
+  float: left;
+}
+
+.skills-two {
+  margin-left: 30px;
+  width: 215px;
+  float: right;
+}
+
+.profile {
+  margin: 100px auto 100px auto;
+  width: 40%;
+  line-height: 2;
+}
+
+.contact-me {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 40%;
+}
+
+.skills{
+  margin: 100px auto 100px auto;
+
+}
+
+.contact-me-btn {
+	background:linear-gradient(to bottom, #4f99ca 5%, #4f99ca 100%);
+	background-color:#4f99ca;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 50px;
+	text-decoration:none;
+}
+.contact-me-btn:hover {
+	background:linear-gradient(to bottom, #9aceff 5%, #9aceff 100%);
+	background-color:#9aceff;
+}
+.contact-me-btn:active {
+	position:relative;
+	top:2px;
+}
+
+.footer-link{
+  margin: 50px;
+  color: #4f99ca;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.bottom-name{
+  margin: 50px auto 50px auto;
+  color: #ffffff;
+}
